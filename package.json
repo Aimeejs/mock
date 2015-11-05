@@ -1,0 +1,25 @@
+{
+  "name": "mock",
+  "aimee": "app",
+  "description": "Aimee框架的mock模块",
+  "main": "mock.js",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "aimee -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aimeejs/mock.git"
+  },
+  "keywords": [
+    "aimee",
+    "mock"
+    "aimee-app"
+  ],
+  "bugs": {
+    "url": "https://github.com/Aimeejs/mock/issues"
+  },
+  "homepage": "https://github.com/Aimeejs/mock",
+  "dependencies": {
+  }
+}
